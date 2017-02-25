@@ -1,0 +1,28 @@
+h1{
+	color:blue;
+	font-size:100px;
+	font-family: 'Georgia', 'serif';
+}
+#no{
+	color: red;
+}
+#nono{
+	color: red;
+}
+#nonono{
+	color: red;
+}
+img{
+	width: 50%;
+	margin-left: 25%;
+	border:10px;
+	border-style: solid;
+	border-color: cyan;
+}
+#title{
+	margin-left: 11%;
+	color: chartreuse;
+}
+body{
+	background-color: grey; 
+}
